@@ -2,6 +2,6 @@
 __pycache__
 .idea
 .env*
-flask_project/site.db
+flask/flask_project/site.db
 profile_pics
 test.py
